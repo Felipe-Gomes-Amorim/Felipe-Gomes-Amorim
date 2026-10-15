@@ -8,6 +8,7 @@ Desenvolvedor de software · jogos, ferramentas e IA
 
 | Projeto | Descrição | Stack |
 | ------- | --------- | ----- |
+| **[Kirby & The Amazing Mirror — Recomp](https://github.com/Felipe-Gomes-Amorim/kirby-amazing-mirror-recomp)** | Recompilação estática de Kirby & The Amazing Mirror (GBA): traduz o código ARM7TDMI do jogo para C para rodar nativamente no PC, sem emulador. Em desenvolvimento | **Stack:** Python, C, Capstone, Unicorn |
 | **[Tetrapla](https://github.com/Felipe-Gomes-Amorim/Tetrapla)** | App mobile de estudo bíblico com textos em português, latim, grego, hebraico e aramaico alinhados versículo a versículo, referências dos Pais Ante-Nicenos e sistema de progresso de leitura | **App:** React Native, Expo, TypeScript **Dados:** Python, SQLite |
 | **[ChronoStadia](https://github.com/Felipe-Gomes-Amorim/ChronoStadia)** | Desktop de produtividade offline com visual de Windows 98: tarefas, notas, kanban, calendário, cronômetro pomodoro e controle de gastos | **Stack:** Electron, React, TypeScript, Vite |
 | **[Mix Engine](https://github.com/Felipe-Gomes-Amorim/mix-engine)** | Editor web de sprites, tilesets e fases para um jogo de plataforma SNES, com integração opcional a uma engine em C/PVSnesLib | **Stack:** React, TypeScript, Vite, Playwright |
