@@ -8,20 +8,11 @@ Desenvolvedor de software · jogos, ferramentas e IA
 
 | Projeto | Descrição | Stack |
 | ------- | --------- | ----- |
-| **[Wolfeinstein 3D Engine Recreation](https://github.com/Felipe-Gomes-Amorim/Wolfeinstein-3D-Engine-Recreation)** | Recriação do motor de raycasting de Wolfenstein 3D | **Linguagem:** Python |
-| **[IAMon](https://github.com/Felipe-Gomes-Amorim/IAMon)** | Modelo SVM que classifica Pokémon em comuns, lendários, sub-lendários e míticos | **ML:** Python, scikit-learn, Pandas, Jupyter |
-| **[SCX](https://github.com/Felipe-Gomes-Amorim/SCX)** | DESCRIÇÃO: o que o SCX faz, em uma linha | **Stack:** JavaScript |
-| **Jogo de plataforma para SNES** | Jogo de plataforma que roda em ROM de SNES, escrito em C | **Stack:** C, PVSnesLib |
-| **TaskOS** | App de produtividade com interface estilo Windows 98/2000 | **Stack:** PREENCHER |
-| **HyperText K** | App mobile para aprender grego koiné | **Stack:** PREENCHER |
-
----
-
-# 🎮 Jogos
-
-| Projeto | Descrição | Engine / Stack |
-| ------- | --------- | -------------- |
-| **Survival horror 2D** | Jogo multiplayer top-down de sobrevivência e terror | **Stack:** Phaser, Socket.io, Electron |
+| **[Tetrapla](https://github.com/Felipe-Gomes-Amorim/Tetrapla)** | App mobile de estudo bíblico com textos em português, latim, grego, hebraico e aramaico alinhados versículo a versículo, referências dos Pais Ante-Nicenos e sistema de progresso de leitura | **App:** React Native, Expo, TypeScript **Dados:** Python, SQLite |
+| **[ChronoStadia](https://github.com/Felipe-Gomes-Amorim/ChronoStadia)** | Desktop de produtividade offline com visual de Windows 98: tarefas, notas, kanban, calendário, cronômetro pomodoro e controle de gastos | **Stack:** Electron, React, TypeScript, Vite |
+| **[Mix Engine](https://github.com/Felipe-Gomes-Amorim/mix-engine)** | Editor web de sprites, tilesets e fases para um jogo de plataforma SNES, com integração opcional a uma engine em C/PVSnesLib | **Stack:** React, TypeScript, Vite, Playwright |
+| **[Wolfenstein 3D Engine Recreation](https://github.com/Felipe-Gomes-Amorim/Wolfeinstein-3D-Engine-Recreation)** | Recriação do motor do Wolfenstein 3D | **Linguagem:** Python |
+| **[IAMon](https://github.com/Felipe-Gomes-Amorim/IAMon)** | Modelo SVM que classifica Pokémon em comuns, lendários, sub-lendários e míticos | **ML:** Jupyter Notebook, SVM |
 
 ---
 
@@ -37,6 +28,8 @@ Desenvolvedor de software · jogos, ferramentas e IA
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
