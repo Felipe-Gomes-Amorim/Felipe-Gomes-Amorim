@@ -1,27 +1,50 @@
-# 💫 Sobre mim
+# Oi 👋, eu sou o Felipe
 
-Sou Engenheiro de Software com experiência prática em projetos diversos: sistemas com estado, jogos, aplicativos desktop e mobile, integrações com APIs e plugins nativos. Tenho formação em Engenharia de Software pela Universidade de Mogi das Cruzes. Também desenvolvo projetos pessoais que envolvem Machine Learning e análise de dados, incluindo pesquisas acadêmicas apresentadas em eventos científicos. Gosto de construir do zero — desde a arquitetura até a entrega — e estou sempre em busca de novos desafios técnicos.
-
----
-
-## 🌐 Redes Sociais
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Felipe-Gomes-Amorim)
+Desenvolvedor de software · jogos, ferramentas e IA
 
 ---
 
-## 💻 Tecnologias
+# 🚀 Projetos
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+| Projeto | Descrição | Stack |
+| ------- | --------- | ----- |
+| **[Wolfeinstein 3D Engine Recreation](https://github.com/Felipe-Gomes-Amorim/Wolfeinstein-3D-Engine-Recreation)** | Recriação do motor de raycasting de Wolfenstein 3D | **Linguagem:** Python |
+| **[IAMon](https://github.com/Felipe-Gomes-Amorim/IAMon)** | Modelo SVM que classifica Pokémon em comuns, lendários, sub-lendários e míticos | **ML:** Python, scikit-learn, Pandas, Jupyter |
+| **[SCX](https://github.com/Felipe-Gomes-Amorim/SCX)** | DESCRIÇÃO: o que o SCX faz, em uma linha | **Stack:** JavaScript |
+| **Jogo de plataforma para SNES** | Jogo de plataforma que roda em ROM de SNES, escrito em C | **Stack:** C, PVSnesLib |
+| **TaskOS** | App de produtividade com interface estilo Windows 98/2000 | **Stack:** PREENCHER |
+| **HyperText K** | App mobile para aprender grego koiné | **Stack:** PREENCHER |
 
 ---
 
-## 📊 Estatísticas de GitHub
+# 🎮 Jogos
 
-![](https://github-readme-stats.vercel.app/api?username=Felipe-Gomes-Amorim&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Felipe-Gomes-Amorim&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Gomes-Amorim&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+| Projeto | Descrição | Engine / Stack |
+| ------- | --------- | -------------- |
+| **Survival horror 2D** | Jogo multiplayer top-down de sobrevivência e terror | **Stack:** Phaser, Socket.io, Electron |
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Felipe-Gomes-Amorim&icon=0&color=0)](https://visitcount.itsvg.in)
+# 🛠️ Tecnologias
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+# 📊 Estatísticas do GitHub
+
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=Felipe-Gomes-Amorim&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Gomes-Amorim&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
