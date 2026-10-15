@@ -2,6 +2,8 @@
 
 Desenvolvedor e Engenheiro de software formado · Game dev, Engenharia reversa e Recompilação, ferramentas e IA
 
+**[📄 Ver meu currículo em site →](https://felipe-gomes-amorim.github.io/Curriculo-em-Site/#inicio)**
+
 ---
 
 # 🚀 Projetos
