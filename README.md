@@ -1,6 +1,6 @@
 # Oi 👋, eu sou o Felipe
 
-Desenvolvedor de software · jogos, ferramentas e IA
+Desenvolvedor e Engenheiro de software formado · jogos, ferramentas e IA
 
 ---
 
