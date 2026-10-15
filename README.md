@@ -1,6 +1,6 @@
 # Oi 👋, eu sou o Felipe
 
-Desenvolvedor e Engenheiro de software formado · Game dev, Engeharia reversa e Recompilação, ferramentas e IA
+Desenvolvedor e Engenheiro de software formado · Game dev, Engenharia reversa e Recompilação, ferramentas e IA
 
 ---
 
