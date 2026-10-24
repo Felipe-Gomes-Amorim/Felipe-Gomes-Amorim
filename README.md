@@ -6,11 +6,19 @@ Software Engineering graduate and developer · Game dev, reverse engineering and
 
 ---
 
-# 🚀 Projects
+# 🕹️ Recompilation & Decompilation Projects
 
 | Project | Description | Stack |
 | ------- | ----------- | ----- |
+| **[Touhou Reiiden — Fan Port](https://github.com/Felipe-Gomes-Amorim/touhou-reiiden-port)** | Unofficial fan port of Touhou Reiiden (PC-98): an engine-free C# re-implementation that uses the ReC98 decompilation as a behavioural reference. Playable up to stage 15. Requires your own copy of the game | **Stack:** C#, .NET 8, MonoGame |
 | **[Kirby & The Amazing Mirror — Recomp](https://github.com/Felipe-Gomes-Amorim/kirby-amazing-mirror-recomp)** | Static recompilation of Kirby & The Amazing Mirror (GBA): translates the game's ARM7TDMI code to C so it runs natively on PC, with no emulator. Work in progress | **Stack:** Python, C, Capstone, Unicorn |
+
+---
+
+# 🚀 Other Projects
+
+| Project | Description | Stack |
+| ------- | ----------- | ----- |
 | **[Tetrapla](https://github.com/Felipe-Gomes-Amorim/Tetrapla)** | Mobile Bible study app with Portuguese, Latin, Greek, Hebrew and Aramaic texts aligned verse by verse, Ante-Nicene Fathers references, and a reading progress system | **App:** React Native, Expo, TypeScript **Data:** Python, SQLite |
 | **[ChronoStadia](https://github.com/Felipe-Gomes-Amorim/ChronoStadia)** | Offline desktop productivity app with a Windows 98 look: tasks, notes, kanban, calendar, pomodoro timer and expense tracking | **Stack:** Electron, React, TypeScript, Vite |
 | **[Mix Engine](https://github.com/Felipe-Gomes-Amorim/mix-engine)** | Web editor for sprites, tilesets and levels for an SNES platformer, with optional integration with a C/PVSnesLib engine | **Stack:** React, TypeScript, Vite, Playwright |
