@@ -22,7 +22,7 @@ Software Engineering graduate and developer · Game dev, reverse engineering and
 | **[Tetrapla](https://github.com/Felipe-Gomes-Amorim/Tetrapla)** | Mobile Bible study app with Portuguese, Latin, Greek, Hebrew and Aramaic texts aligned verse by verse, Ante-Nicene Fathers references, and a reading progress system | **App:** React Native, Expo, TypeScript **Data:** Python, SQLite |
 | **[ChronoStadia](https://github.com/Felipe-Gomes-Amorim/ChronoStadia)** | Offline desktop productivity app with a Windows 98 look: tasks, notes, kanban, calendar, pomodoro timer and expense tracking | **Stack:** Electron, React, TypeScript, Vite |
 | **[Mix Engine](https://github.com/Felipe-Gomes-Amorim/mix-engine)** | Web editor for sprites, tilesets and levels for an SNES platformer, with optional integration with a C/PVSnesLib engine | **Stack:** React, TypeScript, Vite, Playwright |
-| **[Wolfenstein 3D Engine Recreation](https://github.com/Felipe-Gomes-Amorim/Wolfeinstein-3D-Engine-Recreation)** | Recreation of the Wolfenstein 3D engine | **Language:** Python |
+| **[SCX — Medical Exam Management System](https://github.com/Felipe-Gomes-Amorim/SCX)** | Web system that connects clinics, labs, doctors and patients to manage medical exams. Capstone project built by a team of 4 | **Stack:** React, Vite, Java, Spring Boot, PostgreSQL, JWT |
 | **[IAMon](https://github.com/Felipe-Gomes-Amorim/IAMon)** | SVM model that classifies Pokémon as common, legendary, sub-legendary or mythical | **ML:** Jupyter Notebook, SVM |
 
 ---
